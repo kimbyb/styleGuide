@@ -29,3 +29,64 @@
 #color5 {
   background-color: #c16e70;
 }
+
+.mainTitle {
+  font-size: 30px;
+}
+
+.title {
+  font-size: 25px;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.inconsolata {
+  font-family: "Inconsolata", sans-serif;
+}
+
+.text {
+  font-size: 18px;
+}
+
+#robotoThin {
+  font-weight: 300;
+}
+
+#robotoLight {
+  font-weight: 450;
+}
+
+#robotoThinItalic {
+  font-weight: 300;
+  font-style: italic;
+}
+
+#poppinsThin {
+  font-weight: 200;
+}
+
+#poppinsExtraLight {
+  font-weight: 550;
+}
+
+#poppinsExtraLightItalic {
+  font-weight: 400;
+  font-style: italic;
+}
+
+#incoExtraLight {
+  font-weight: 300;
+}
+
+#incoLight {
+  font-weight: 400;
+}
+
+#incoMedium {
+  font-weight: 600;
+}
