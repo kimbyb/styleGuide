@@ -1,0 +1,31 @@
+.block {
+  border: 2px solid grey;
+  padding: 10px 20px 20px 25px;
+  margin-bottom: 20px;
+}
+
+.color-block {
+  width: 275px;
+  height: 200px;
+  display: inline-block;
+}
+
+#color1 {
+  background-color: #151e3f;
+}
+
+#color2 {
+  background-color: #030027;
+}
+
+#color3 {
+  background-color: #f2f3d9;
+}
+
+#color4 {
+  background-color: #dc9e82;
+}
+
+#color5 {
+  background-color: #c16e70;
+}
