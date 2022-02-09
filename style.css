@@ -8,13 +8,16 @@
   width: 275px;
   height: 200px;
   display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
 }
 
-#color1 {
+/* #color1 {
   background-color: #151e3f;
-}
+} */
 
-#color2 {
+/* #color2 {
   background-color: #030027;
 }
 
@@ -28,7 +31,7 @@
 
 #color5 {
   background-color: #c16e70;
-}
+} */
 
 .mainTitle {
   font-size: 30px;
